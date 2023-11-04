@@ -1,8 +1,8 @@
 public class compoundInterest {//create class compoundInterest
 
     public static void main(String[] args) {//create main method to start program execution
-        calculateCompound compound= new calculateCompound();
-        compound.calculate();
+        calculateCompound compound= new calculateCompound();// calculate instance of calculateCompound
+        compound.calculate();//call method calculate from compound object
     }
 }
 /**
