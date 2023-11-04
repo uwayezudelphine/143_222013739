@@ -1,6 +1,6 @@
-public class compoundInterest {
+public class compoundInterest {//create class compoundInterest
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {//create main method to start program execution
         calculateCompound compound= new calculateCompound();
         compound.calculate();
     }
