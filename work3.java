@@ -1,16 +1,16 @@
- class work3{
-    public static void main(String args[]){
-        int number=50;
+ class work3{ //create class work3
+    public static void main(String args[]){//create main method
+        int number=50;//initialisation number
  String size;
- switch(number){
-         case 12:
-         size="small";
-          break;
-          case 40:
-          size="medium";
-          break;
-          case 52:
-          size="extra lorge";
+ switch(number){//opening switch
+         case 12://case 1
+         size="small";//print small
+          break;//create break
+          case 40://case 2
+          size="medium";//print medium
+          break;//create break
+          case 52://case3
+          size="extra lorge";//print extra lorge
           default:
           size="unkoun";
           break;
